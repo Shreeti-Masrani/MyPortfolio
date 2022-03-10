@@ -848,12 +848,4 @@ h3.profession{
     top: 55px;
 }
 
-footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    color: #ffffff;
-    font-family: cursive;
-}
+
