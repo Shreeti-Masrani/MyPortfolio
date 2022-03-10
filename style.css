@@ -847,3 +847,13 @@ h3.profession{
 .style-switcher .day-night{
     top: 55px;
 }
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-family: cursive;
+}
